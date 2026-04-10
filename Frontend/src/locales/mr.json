@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "dashboard": "डॅशबोर्ड",
+    "map": "रोग नकाशा",
+    "water": "पाण्याची गुणवत्ता",
+    "alerts": "सूचना",
+    "report": "अहवाल सादर करा",
+    "profile": "माझी प्रोफाइल"
+  },
+  "dashboard": {
+    "title": "सामुदायिक आरोग्य डॅशबोर्ड",
+    "subtitle": "रिअल-टाइम जल सुरक्षा देखरेख",
+    "active_alerts": "सक्रिय सूचना",
+    "safe_zones": "सुरक्षित क्षेत्र",
+    "reports_today": "आजचे अहवाल",
+    "risk_score": "एकूण जोखीम स्कोर",
+    "recent_alerts": "अलीकडील सूचना",
+    "trend": "७ दिवसांचा कल"
+  },
+  "alert": {
+    "water_danger": "जलजन्य रोग इशारा",
+    "high_risk": "उच्च धोका",
+    "medium_risk": "मध्यम धोका",
+    "low_risk": "कमी धोका",
+    "safe": "सुरक्षित",
+    "zone": "झोन {{zone}}",
+    "reported_at": "{{time}} पूर्वी नोंदवले"
+  },
+  "water": {
+    "title": "पाणी गुणवत्ता मॉनिटर",
+    "ph": "पीएच पातळी",
+    "turbidity": "गढूळपणा",
+    "coliform": "कोलिफॉर्म संख्या",
+    "chlorine": "क्लोरीन पातळी",
+    "last_updated": "शेवटचे अपडेट {{time}}"
+  },
+  "gamification": {
+    "your_points": "तुमचे गुण",
+    "level": "स्तर",
+    "streak": "{{days}} दिवसांची स्ट्रीक",
+    "leaderboard": "झोन लीडरबोर्ड",
+    "badges": "मिळवलेले बॅज",
+    "earn_points": "गुण मिळवा",
+    "submit_report": "पाणी अहवाल सादर करा",
+    "daily_checkin": "दैनिक चेक-इन",
+    "complete_quiz": "आरोग्य क्विझ पूर्ण करा",
+    "share_alert": "सूचना शेअर करा"
+  },
+  "report": {
+    "title": "पाणी गुणवत्ता अहवाल सादर करा",
+    "location": "तुमचे स्थान",
+    "symptoms": "दिसलेली लक्षणे",
+    "description": "वर्णन",
+    "submit": "अहवाल सादर करा",
+    "success": "अहवाल सादर झाला! +50 गुण मिळाले"
+  },
+  "common": {
+    "loading": "लोड होत आहे...",
+    "error": "काहीतरी चुकले",
+    "pts": "गुण",
+    "view_all": "सर्व पहा"
+  }
+}

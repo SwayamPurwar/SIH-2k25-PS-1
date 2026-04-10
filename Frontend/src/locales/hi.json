@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "map": "रोग मानचित्र",
+    "water": "जल गुणवत्ता",
+    "alerts": "अलर्ट",
+    "report": "रिपोर्ट दर्ज करें",
+    "profile": "मेरी प्रोफ़ाइल"
+  },
+  "dashboard": {
+    "title": "सामुदायिक स्वास्थ्य डैशबोर्ड",
+    "subtitle": "रीयल-टाइम जल सुरक्षा निगरानी",
+    "active_alerts": "सक्रिय अलर्ट",
+    "safe_zones": "सुरक्षित क्षेत्र",
+    "reports_today": "आज की रिपोर्ट",
+    "risk_score": "समग्र जोखिम स्कोर",
+    "recent_alerts": "हाल के अलर्ट",
+    "trend": "7 दिन की प्रवृत्ति"
+  },
+  "alert": {
+    "water_danger": "जल-जनित रोग चेतावनी",
+    "high_risk": "उच्च जोखिम",
+    "medium_risk": "मध्यम जोखिम",
+    "low_risk": "कम जोखिम",
+    "safe": "सुरक्षित",
+    "zone": "जोन {{zone}}",
+    "reported_at": "{{time}} पहले रिपोर्ट किया"
+  },
+  "water": {
+    "title": "जल गुणवत्ता मॉनिटर",
+    "ph": "पीएच स्तर",
+    "turbidity": "मैलापन",
+    "coliform": "कोलीफॉर्म गणना",
+    "chlorine": "क्लोरीन स्तर",
+    "last_updated": "अंतिम अपडेट {{time}}"
+  },
+  "gamification": {
+    "your_points": "आपके अंक",
+    "level": "स्तर",
+    "streak": "{{days}} दिन की स्ट्रीक",
+    "leaderboard": "जोन लीडरबोर्ड",
+    "badges": "अर्जित बैज",
+    "earn_points": "अंक अर्जित करें",
+    "submit_report": "जल रिपोर्ट दर्ज करें",
+    "daily_checkin": "दैनिक चेक-इन",
+    "complete_quiz": "स्वास्थ्य क्विज़ पूरा करें",
+    "share_alert": "अलर्ट साझा करें"
+  },
+  "report": {
+    "title": "जल गुणवत्ता रिपोर्ट दर्ज करें",
+    "location": "आपका स्थान",
+    "symptoms": "देखे गए लक्षण",
+    "description": "विवरण",
+    "submit": "रिपोर्ट सबमिट करें",
+    "success": "रिपोर्ट सबमिट हुई! +50 अंक मिले"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "कुछ गलत हुआ",
+    "pts": "अंक",
+    "view_all": "सभी देखें"
+  }
+}

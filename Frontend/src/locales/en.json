@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "map": "Disease Map",
+    "water": "Water Quality",
+    "alerts": "Alerts",
+    "report": "Submit Report",
+    "profile": "My Profile"
+  },
+  "dashboard": {
+    "title": "Community Health Dashboard",
+    "subtitle": "Real-time water safety monitoring",
+    "active_alerts": "Active Alerts",
+    "safe_zones": "Safe Zones",
+    "reports_today": "Reports Today",
+    "risk_score": "Overall Risk Score",
+    "recent_alerts": "Recent Alerts",
+    "trend": "7-Day Trend"
+  },
+  "alert": {
+    "water_danger": "Water-borne Disease Warning",
+    "high_risk": "High Risk",
+    "medium_risk": "Medium Risk",
+    "low_risk": "Low Risk",
+    "safe": "Safe",
+    "zone": "Zone {{zone}}",
+    "reported_at": "Reported {{time}} ago"
+  },
+  "water": {
+    "title": "Water Quality Monitor",
+    "ph": "pH Level",
+    "turbidity": "Turbidity",
+    "coliform": "Coliform Count",
+    "chlorine": "Chlorine Level",
+    "last_updated": "Last updated {{time}}"
+  },
+  "gamification": {
+    "your_points": "Your Points",
+    "level": "Level",
+    "streak": "{{days}}-Day Streak",
+    "leaderboard": "Zone Leaderboard",
+    "badges": "Badges Earned",
+    "earn_points": "Earn Points",
+    "submit_report": "Submit water report",
+    "daily_checkin": "Daily check-in",
+    "complete_quiz": "Complete health quiz",
+    "share_alert": "Share alert"
+  },
+  "report": {
+    "title": "Submit Water Quality Report",
+    "location": "Your Location",
+    "symptoms": "Observed Symptoms",
+    "description": "Description",
+    "submit": "Submit Report",
+    "success": "Report submitted! +50 points earned"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "pts": "pts",
+    "view_all": "View all"
+  }
+}
